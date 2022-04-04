@@ -1,2 +1,2 @@
 # ECommerceWebShop
-ECommerce Web Page iwth React.js, Commerce.js and Stripe
+ECommerce Web Page with React.js, Commerce.js and Stripe
