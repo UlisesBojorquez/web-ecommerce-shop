@@ -20,6 +20,9 @@ export default makeStyles((theme) => ({
         },*/
     },
     paper: {
+        margin:'10%',
+        padding:'10px'
+        //height:'400px'
         /*marginTop: theme.spacing(3),
         marginBottom: theme.spacing(3),
         padding: theme.spacing(2),
@@ -34,6 +37,7 @@ export default makeStyles((theme) => ({
         },*/
     },
     stepper: {
+        padding: '100px'
         //padding: theme.spacing(3, 0, 5),
     },
     buttons: {
